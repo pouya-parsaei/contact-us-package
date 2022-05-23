@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "PouyaParsaei\\Contact": "src/"
+            "PouyaParsaei\\Contact\\": "src/"
         }
     }
 }
